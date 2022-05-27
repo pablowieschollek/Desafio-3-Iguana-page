@@ -1,0 +1,146 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    max-width: 100vw;
+    background-color: #000;
+}
+
+header {
+
+    width: 100%;
+    height: 40vw;
+    opacity: 1;
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: Raleway;
+    font-size: 2.5rem;
+    padding: 0;
+}
+
+
+.sectionOne {
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.parrafo {
+    display: inline-block;
+    width: 35%;
+    color: white;
+    margin-right: 5%;
+    margin-top: 4%;
+    font-size: 1.2em;
+    vertical-align: middle;
+}
+
+.parrafo p {
+    text-align: left;
+}
+
+
+.foto {
+    display: inline-block;
+    position: relative;
+    width: 45%;
+    height: 300px;
+    margin-top: 3%;
+    vertical-align: top;
+}
+
+
+.foto img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.sectionTwo {
+    display: block;
+    width: 100%;
+    height: 400px;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+.sectionTwo h2 {
+    font-family: 'Raleway';
+    color: white;
+    height: 47px;
+    width: 1280px;
+    font-size: 47px;
+    padding-top: 67px;
+}
+
+.contenedorIconos {
+    width: 1280px;
+    height: 300px;
+}
+
+.icono {
+    color: white;
+    float: left;
+    margin-left: 195px;
+    padding-top: 70px;
+    width: 170px;
+}
+
+i {
+    font-size: 60px;
+}
+
+.icono p {
+    font-family: 'Raleway';
+    font-size: 20px;
+}
+
+.sectionThree {
+    display: block;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.contenedorImagen {
+    display: inline-block;
+    width: 30%;
+    height: 280px;
+    margin: 4% 1.2%;
+
+}
+
+.contenedorImagen img {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    display: block;
+    position: relative;
+    background-color: #1E1A13;
+    height: 102px;
+    width: 100%;
+    font-family: 'Raleway';
+    color: white;
+    text-align: center;
+    line-height: 102px;
+}
+
+a {
+    color: white;
+}
